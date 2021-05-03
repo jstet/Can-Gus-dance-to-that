@@ -1,0 +1,23 @@
+# History files
+.Rhistory
+.RData
+
+# Example code in package build process
+.Rproj.user
+
+# ShinyApps manifest
+*.dcf
+
+# Fonts
+*.ttc
+
+# DS Store
+.DS_Store
+
+# Log Files
+logfile*.txt
+
+secrets.R
+
+# Not sure about copyright so I'll exclude this for now
+video.mp4 
