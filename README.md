@@ -1,6 +1,6 @@
 # Can Gus dance to that?
 
-Simple shiny app that determines if [Gus Johnson](https://www.youtube.com/user/gustoonz) can dance to something. Not finished yet.
+Simple shiny app that checks if [Gus Johnson](https://www.youtube.com/user/gustoonz) can dance to something. Not finished yet.
 
 ## Why?
 
