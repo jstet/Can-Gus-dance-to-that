@@ -9,3 +9,13 @@ I've noticed that when you mute the video "[I had a great day](https://www.youtu
 ## How does it work?
 
 The app uses Spotifys API to pull song metrics for "Boogie Wonderland" and then compares them to the song metrics of a song the user enters. 
+
+## To do
+
+- hide video at first, instead display something else
+- show different videos when answer changes
+- change playback speed of video -> calculate speed change through bpm
+- cut video so it fits to bpm
+- make spotify play the song
+- when user pauses, video should pause too
+- maybe optimize for mobile devices
